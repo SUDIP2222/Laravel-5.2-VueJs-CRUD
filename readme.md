@@ -1,3 +1,4 @@
+![alt tag](https://cloud.githubusercontent.com/assets/8324443/17717354/62de7974-642f-11e6-8157-f0755364031b.PNG)
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
